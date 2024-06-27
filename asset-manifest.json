@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb8c7dc3.css",
-    "main.js": "/static/js/main.1c6119fb.js",
+    "main.css": "/static/css/main.b747cd4b.css",
+    "main.js": "/static/js/main.f5a4b80b.js",
     "static/js/453.54fe756e.chunk.js": "/static/js/453.54fe756e.chunk.js",
     "static/media/11.jpg": "/static/media/11.330f1487fce979ee1df8.jpg",
     "static/media/9.jpg": "/static/media/9.dfd3d90eb3c4272c466e.jpg",
@@ -14,8 +14,8 @@
     "static/media/2.jpg": "/static/media/2.72bb77ded3dedef28d4e.jpg",
     "static/media/baggageTransfer.jpg": "/static/media/baggageTransfer.4179e292a10b0c4d0d10.jpg",
     "static/media/Herobg2.jpg": "/static/media/Herobg2.56e9210f2f520c51c078.jpg",
-    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
-    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/luggageBag.png": "/static/media/luggageBag.34f4378e085aee2cdefc.png",
+    "static/media/VqNoJr.ttf": "/static/media/VqNoJr.ad354ef98de54abccc7b.ttf",
     "static/media/7.jpg": "/static/media/7.c87390d7e9e458770109.jpg",
     "static/media/5.jpeg": "/static/media/5.9b14eb2a2859b3281670.jpeg",
     "static/media/10.jpg": "/static/media/10.2a9b5989377ff810f4bb.jpg",
@@ -24,6 +24,7 @@
     "static/media/collection.png": "/static/media/collection.aa8d42bd9aca3fb2def0.png",
     "static/media/pickup.png": "/static/media/pickup.e1970464584d2a942773.png",
     "static/media/handling.png": "/static/media/handling.945f8240f6a304936804.png",
+    "static/media/departurebg.png": "/static/media/departurebg.0a26732eab86573b4cf5.png",
     "static/media/storageIcon.png": "/static/media/storageIcon.446fe33834926fc3ea94.png",
     "static/media/8.webp": "/static/media/8.6312b7ae91cbfe00b7c0.webp",
     "static/media/customerApproach.png": "/static/media/customerApproach.f3d17bae18e9f912082a.png",
@@ -42,12 +43,12 @@
     "static/media/download.png": "/static/media/download.5716998448a7a575fa07.png",
     "static/media/Sprinkle.svg": "/static/media/Sprinkle.bbe50e39bbf2f7e1625d.svg",
     "index.html": "/index.html",
-    "main.fb8c7dc3.css.map": "/static/css/main.fb8c7dc3.css.map",
-    "main.1c6119fb.js.map": "/static/js/main.1c6119fb.js.map",
+    "main.b747cd4b.css.map": "/static/css/main.b747cd4b.css.map",
+    "main.f5a4b80b.js.map": "/static/js/main.f5a4b80b.js.map",
     "453.54fe756e.chunk.js.map": "/static/js/453.54fe756e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb8c7dc3.css",
-    "static/js/main.1c6119fb.js"
+    "static/css/main.b747cd4b.css",
+    "static/js/main.f5a4b80b.js"
   ]
 }
