@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b747cd4b.css",
-    "main.js": "/static/js/main.f5a4b80b.js",
+    "main.css": "/static/css/main.d9e7cc35.css",
+    "main.js": "/static/js/main.77efbe12.js",
     "static/js/453.54fe756e.chunk.js": "/static/js/453.54fe756e.chunk.js",
     "static/media/11.jpg": "/static/media/11.330f1487fce979ee1df8.jpg",
     "static/media/9.jpg": "/static/media/9.dfd3d90eb3c4272c466e.jpg",
     "static/media/4.jpg": "/static/media/4.e08de936a20bf7cf6f17.jpg",
     "static/media/luggageStorage.png": "/static/media/luggageStorage.97a1e978e2988d7cd8cb.png",
     "static/media/6.webp": "/static/media/6.92287a432f9f68835dfe.webp",
-    "static/media/logo.png": "/static/media/logo.1874d9fec4538a04e575.png",
     "static/media/1.jpg": "/static/media/1.ff98d64a8a8af7c7bb92.jpg",
     "static/media/lostLuggage.jpg": "/static/media/lostLuggage.6fb864fcd786657a1380.jpg",
     "static/media/2.jpg": "/static/media/2.72bb77ded3dedef28d4e.jpg",
     "static/media/baggageTransfer.jpg": "/static/media/baggageTransfer.4179e292a10b0c4d0d10.jpg",
     "static/media/Herobg2.jpg": "/static/media/Herobg2.56e9210f2f520c51c078.jpg",
     "static/media/luggageBag.png": "/static/media/luggageBag.34f4378e085aee2cdefc.png",
-    "static/media/VqNoJr.ttf": "/static/media/VqNoJr.ad354ef98de54abccc7b.ttf",
     "static/media/7.jpg": "/static/media/7.c87390d7e9e458770109.jpg",
     "static/media/5.jpeg": "/static/media/5.9b14eb2a2859b3281670.jpeg",
     "static/media/10.jpg": "/static/media/10.2a9b5989377ff810f4bb.jpg",
@@ -24,10 +22,14 @@
     "static/media/collection.png": "/static/media/collection.aa8d42bd9aca3fb2def0.png",
     "static/media/pickup.png": "/static/media/pickup.e1970464584d2a942773.png",
     "static/media/handling.png": "/static/media/handling.945f8240f6a304936804.png",
+    "static/media/NetflixSans_Bd.woff2": "/static/media/NetflixSans_Bd.2cd128d8209cae108cbe.woff2",
+    "static/media/NetflixSans_Md.woff2": "/static/media/NetflixSans_Md.a7eb753e6dc0059a0b06.woff2",
+    "static/media/NetflixSans_Rg.woff2": "/static/media/NetflixSans_Rg.0f89544675950f86a3c9.woff2",
     "static/media/departurebg.png": "/static/media/departurebg.0a26732eab86573b4cf5.png",
     "static/media/storageIcon.png": "/static/media/storageIcon.446fe33834926fc3ea94.png",
     "static/media/8.webp": "/static/media/8.6312b7ae91cbfe00b7c0.webp",
     "static/media/customerApproach.png": "/static/media/customerApproach.f3d17bae18e9f912082a.png",
+    "static/media/logo.png": "/static/media/logo.fb65020840953713f7ab.png",
     "static/media/airlines.png": "/static/media/airlines.33d36f2dc2ef5860c994.png",
     "static/media/explore.png": "/static/media/explore.10fe9d8d0c8004435b1a.png",
     "static/media/drop.png": "/static/media/drop.9b6fb6cb5c3fa9d7b1a7.png",
@@ -43,12 +45,12 @@
     "static/media/download.png": "/static/media/download.5716998448a7a575fa07.png",
     "static/media/Sprinkle.svg": "/static/media/Sprinkle.bbe50e39bbf2f7e1625d.svg",
     "index.html": "/index.html",
-    "main.b747cd4b.css.map": "/static/css/main.b747cd4b.css.map",
-    "main.f5a4b80b.js.map": "/static/js/main.f5a4b80b.js.map",
+    "main.d9e7cc35.css.map": "/static/css/main.d9e7cc35.css.map",
+    "main.77efbe12.js.map": "/static/js/main.77efbe12.js.map",
     "453.54fe756e.chunk.js.map": "/static/js/453.54fe756e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b747cd4b.css",
-    "static/js/main.f5a4b80b.js"
+    "static/css/main.d9e7cc35.css",
+    "static/js/main.77efbe12.js"
   ]
 }
