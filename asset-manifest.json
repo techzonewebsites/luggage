@@ -1,19 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.31b69493.css",
-    "main.js": "/static/js/main.1916ca28.js",
+    "main.css": "/static/css/main.72c348ae.css",
+    "main.js": "/static/js/main.5f885847.js",
     "static/js/453.54fe756e.chunk.js": "/static/js/453.54fe756e.chunk.js",
     "static/media/11.jpg": "/static/media/11.330f1487fce979ee1df8.jpg",
     "static/media/9.jpg": "/static/media/9.dfd3d90eb3c4272c466e.jpg",
-    "static/media/tsa-carry-on-1501083435.jpg": "/static/media/tsa-carry-on-1501083435.c11d086b2103cef45e68.jpg",
-    "static/media/asd.webp": "/static/media/asd.9375370b262712d974c0.webp",
-    "static/media/a.jpg": "/static/media/a.a870ecb45e144e215a47.jpg",
     "static/media/4.jpg": "/static/media/4.e08de936a20bf7cf6f17.jpg",
-    "static/media/jpg": "/static/media/b090d68f9c9fb5a44c74f99c73debfc1.22e419c0a71a9f5b9995.jpg",
     "static/media/luggageStorage.png": "/static/media/luggageStorage.97a1e978e2988d7cd8cb.png",
     "static/media/6.webp": "/static/media/6.92287a432f9f68835dfe.webp",
-    "static/media/sdce.webp": "/static/media/sdce.a89955455fd9a14618e9.webp",
-    "static/media/sd.jpg": "/static/media/sd.dc004af632c6cbe9e4fd.jpg",
     "static/media/1.jpg": "/static/media/1.ff98d64a8a8af7c7bb92.jpg",
     "static/media/lostLuggage.jpg": "/static/media/lostLuggage.6fb864fcd786657a1380.jpg",
     "static/media/2.jpg": "/static/media/2.72bb77ded3dedef28d4e.jpg",
@@ -21,9 +15,7 @@
     "static/media/baggageTransfer.jpg": "/static/media/baggageTransfer.4179e292a10b0c4d0d10.jpg",
     "static/media/Herobg2.jpg": "/static/media/Herobg2.56e9210f2f520c51c078.jpg",
     "static/media/luggageBag.png": "/static/media/luggageBag.34f4378e085aee2cdefc.png",
-    "static/media/sd.jpeg": "/static/media/sd.9e8bf5c9225deb3597c5.jpeg",
     "static/media/coolie.png": "/static/media/coolie.76437b48e3e3b43ff7ce.png",
-    "static/media/kug.png": "/static/media/kug.76437b48e3e3b43ff7ce.png",
     "static/media/7.jpg": "/static/media/7.c87390d7e9e458770109.jpg",
     "static/media/5.jpeg": "/static/media/5.9b14eb2a2859b3281670.jpeg",
     "static/media/10.jpg": "/static/media/10.2a9b5989377ff810f4bb.jpg",
@@ -46,6 +38,7 @@
     "static/media/Ethiopian.png": "/static/media/Ethiopian.1c5c2e68958e42f58779.png",
     "static/media/customerApproach.png": "/static/media/customerApproach.1aec548f4c3958c49a93.png",
     "static/media/Emirates.png": "/static/media/Emirates.5cc20874b3d39bc769b0.png",
+    "static/media/logo1.png": "/static/media/logo1.fb65020840953713f7ab.png",
     "static/media/light.png": "/static/media/light.3832e773e6a75bd67213.png",
     "static/media/collection.png": "/static/media/collection.75648845e224bfc93fd7.png",
     "static/media/airlines.png": "/static/media/airlines.4f8b4e8b18f70cfe9ada.png",
@@ -54,7 +47,6 @@
     "static/media/handling.png": "/static/media/handling.fb1c43dfb24535b103ac.png",
     "static/media/peace.png": "/static/media/peace.0ead13c960d7d569ae39.png",
     "static/media/stressFree.png": "/static/media/stressFree.133ef073d70acabecdd5.png",
-    "static/media/54.webp": "/static/media/54.6b5a0e5f3ab38e2eb30c.webp",
     "static/media/contactus.png": "/static/media/contactus.a0c8bc08e98d38ca1916.png",
     "static/media/explore.png": "/static/media/explore.dbb64e14a9b1bc5d315e.png",
     "static/media/america.png": "/static/media/america.142e7102175ac1511436.png",
@@ -67,12 +59,12 @@
     "static/media/yourDoor.png": "/static/media/yourDoor.5f2d010328474f1049e2.png",
     "static/media/Sprinkle.svg": "/static/media/Sprinkle.bbe50e39bbf2f7e1625d.svg",
     "index.html": "/index.html",
-    "main.31b69493.css.map": "/static/css/main.31b69493.css.map",
-    "main.1916ca28.js.map": "/static/js/main.1916ca28.js.map",
+    "main.72c348ae.css.map": "/static/css/main.72c348ae.css.map",
+    "main.5f885847.js.map": "/static/js/main.5f885847.js.map",
     "453.54fe756e.chunk.js.map": "/static/js/453.54fe756e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31b69493.css",
-    "static/js/main.1916ca28.js"
+    "static/css/main.72c348ae.css",
+    "static/js/main.5f885847.js"
   ]
 }
