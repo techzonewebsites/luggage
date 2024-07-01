@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c632ebed.css",
-    "main.js": "/static/js/main.e06e99bc.js",
+    "main.css": "/static/css/main.8fa33850.css",
+    "main.js": "/static/js/main.cd65be62.js",
     "static/js/453.54fe756e.chunk.js": "/static/js/453.54fe756e.chunk.js",
     "static/media/11.jpg": "/static/media/11.330f1487fce979ee1df8.jpg",
     "static/media/9.jpg": "/static/media/9.dfd3d90eb3c4272c466e.jpg",
@@ -25,6 +25,8 @@
     "static/media/british.png": "/static/media/british.ff19759423eedb416bc2.png",
     "static/media/Southwest.png": "/static/media/Southwest.45fcf964f1a4e12c90de.png",
     "static/media/effortlessTravel.webp": "/static/media/effortlessTravel.3c034a3b000649196b28.webp",
+    "static/media/plane2.png": "/static/media/plane2.a960c1ff4ff9361c67db.png",
+    "static/media/cloud1.jpg": "/static/media/cloud1.d6b2fb2fc70084239656.jpg",
     "static/media/logo.png": "/static/media/logo.0e5d61f81c1f831fe01d.png",
     "static/media/NetflixSans_Bd.woff2": "/static/media/NetflixSans_Bd.2cd128d8209cae108cbe.woff2",
     "static/media/NetflixSans_Md.woff2": "/static/media/NetflixSans_Md.a7eb753e6dc0059a0b06.woff2",
@@ -32,6 +34,7 @@
     "static/media/departurebg.png": "/static/media/departurebg.0a26732eab86573b4cf5.png",
     "static/media/storageIcon.png": "/static/media/storageIcon.446fe33834926fc3ea94.png",
     "static/media/Kenya.png": "/static/media/Kenya.4102d1c3b9db1c332435.png",
+    "static/media/plane.png": "/static/media/plane.1b4dbe40dae11bb35805.png",
     "static/media/8.webp": "/static/media/8.6312b7ae91cbfe00b7c0.webp",
     "static/media/qatar.png": "/static/media/qatar.e10e16a035abe033e745.png",
     "static/media/delta.png": "/static/media/delta.bf850eb12dae22fab14a.png",
@@ -59,12 +62,12 @@
     "static/media/yourDoor.png": "/static/media/yourDoor.5f2d010328474f1049e2.png",
     "static/media/Sprinkle.svg": "/static/media/Sprinkle.bbe50e39bbf2f7e1625d.svg",
     "index.html": "/index.html",
-    "main.c632ebed.css.map": "/static/css/main.c632ebed.css.map",
-    "main.e06e99bc.js.map": "/static/js/main.e06e99bc.js.map",
+    "main.8fa33850.css.map": "/static/css/main.8fa33850.css.map",
+    "main.cd65be62.js.map": "/static/js/main.cd65be62.js.map",
     "453.54fe756e.chunk.js.map": "/static/js/453.54fe756e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c632ebed.css",
-    "static/js/main.e06e99bc.js"
+    "static/css/main.8fa33850.css",
+    "static/js/main.cd65be62.js"
   ]
 }
