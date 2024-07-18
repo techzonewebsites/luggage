@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ea5d757.css",
-    "main.js": "/static/js/main.7fa2a010.js",
+    "main.css": "/static/css/main.e5f1c723.css",
+    "main.js": "/static/js/main.a60282c8.js",
     "static/js/453.54fe756e.chunk.js": "/static/js/453.54fe756e.chunk.js",
     "static/media/11.jpg": "/static/media/11.330f1487fce979ee1df8.jpg",
     "static/media/9.jpg": "/static/media/9.dfd3d90eb3c4272c466e.jpg",
@@ -32,6 +32,7 @@
     "static/media/10.jpg": "/static/media/10.2a9b5989377ff810f4bb.jpg",
     "static/media/3.jpg": "/static/media/3.6f08271f00d739b70fe5.jpg",
     "static/media/United_Airlines.png": "/static/media/United_Airlines.c978c3bb4ac035f752fc.png",
+    "static/media/blank.png": "/static/media/blank.3d16f514e03830772554.png",
     "static/media/lost.jpg": "/static/media/lost.9172cfb4c7d639313b84.jpg",
     "static/media/new frointier.png": "/static/media/new frointier.583f0b1bea069ccf0c47.png",
     "static/media/new america.png": "/static/media/new america.c704ab9bb0a812812a0d.png",
@@ -43,17 +44,11 @@
     "static/media/baggageTrack.jpg": "/static/media/baggageTrack.bf3a2c88a8aa847e19a3.jpg",
     "static/media/logo.png": "/static/media/logo.0e5d61f81c1f831fe01d.png",
     "static/media/departurebg.png": "/static/media/departurebg.0a26732eab86573b4cf5.png",
-    "static/media/contact.png": "/static/media/contact.05d9167bdd473bc678fa.png",
-    "static/media/storageIcon.png": "/static/media/storageIcon.446fe33834926fc3ea94.png",
-    "static/media/lost.png": "/static/media/lost.d424d9ee0e9e7ae977ef.png",
-    "static/media/BAGGAGE.png": "/static/media/BAGGAGE.b9fe9fe566cc52aa4441.png",
-    "static/media/terminal.png": "/static/media/terminal.57f3dc96bf5aaa2a1bf6.png",
-    "static/media/DEPARTURE.png": "/static/media/DEPARTURE.f2f7f85c49502f8e9b41.png",
-    "static/media/ARRIVAL.png": "/static/media/ARRIVAL.de721ee8772a0aa08747.png",
-    "static/media/plane.png": "/static/media/plane.1b4dbe40dae11bb35805.png",
+    "static/media/lostLuggageIcon.jpg": "/static/media/lostLuggageIcon.5710b00b4a62a83ffdd2.jpg",
     "static/media/new delta.png": "/static/media/new delta.9e67caa398e059d0359c.png",
     "static/media/8.webp": "/static/media/8.6312b7ae91cbfe00b7c0.webp",
     "static/media/new klm.png": "/static/media/new klm.75ea3a64457880be2784.png",
+    "static/media/storageIcon.jpg": "/static/media/storageIcon.5942829fd520a61e8e53.jpg",
     "static/media/baggageClaimed.png": "/static/media/baggageClaimed.0e0ecc5819a216fe2104.png",
     "static/media/Ethiopian.png": "/static/media/Ethiopian.1c5c2e68958e42f58779.png",
     "static/media/new qatar.png": "/static/media/new qatar.d63876b3b398b872bf54.png",
@@ -73,12 +68,12 @@
     "static/media/yourDoor.png": "/static/media/yourDoor.8869d07471d358430ce0.png",
     "static/media/retrieve.png": "/static/media/retrieve.e5a8782a55c522534457.png",
     "index.html": "/index.html",
-    "main.3ea5d757.css.map": "/static/css/main.3ea5d757.css.map",
-    "main.7fa2a010.js.map": "/static/js/main.7fa2a010.js.map",
+    "main.e5f1c723.css.map": "/static/css/main.e5f1c723.css.map",
+    "main.a60282c8.js.map": "/static/js/main.a60282c8.js.map",
     "453.54fe756e.chunk.js.map": "/static/js/453.54fe756e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ea5d757.css",
-    "static/js/main.7fa2a010.js"
+    "static/css/main.e5f1c723.css",
+    "static/js/main.a60282c8.js"
   ]
 }
