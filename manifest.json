@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Baggage Claimed",
+  "name": "VIP luggage storage and transfer service for skipping baggage claim hassles",
   "icons": [
     {
       "src": "favicon.ico",
