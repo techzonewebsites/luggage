@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.24cc5812.css",
-    "main.js": "/static/js/main.112e1eb9.js",
+    "main.css": "/static/css/main.7bbeb9d6.css",
+    "main.js": "/static/js/main.988b1a70.js",
     "static/js/453.54fe756e.chunk.js": "/static/js/453.54fe756e.chunk.js",
     "static/media/tsa-carry-on-1501083435.jpg": "/static/media/tsa-carry-on-1501083435.c11d086b2103cef45e68.jpg",
     "static/media/asd.webp": "/static/media/asd.9375370b262712d974c0.webp",
@@ -21,19 +21,11 @@
     "static/media/coolie.png": "/static/media/coolie.76437b48e3e3b43ff7ce.png",
     "static/media/kug.png": "/static/media/kug.76437b48e3e3b43ff7ce.png",
     "static/media/qatar.png": "/static/media/qatar.728d7dcb90777db21b0b.png",
-    "static/media/british.png": "/static/media/british.7b897953f58552e38d5e.png",
     "static/media/delta.png": "/static/media/delta.668482dbb95a484c8c35.png",
     "static/media/america.png": "/static/media/america.b66a77a395d4478241ca.png",
     "static/media/blank.png": "/static/media/blank.3d16f514e03830772554.png",
-    "static/media/realTime.jpg": "/static/media/realTime.fc9755a002a5d4499bf5.jpg",
-    "static/media/secure.jpg": "/static/media/secure.fcd3ffe785a483410ddd.jpg",
     "static/media/lost.jpg": "/static/media/lost.9172cfb4c7d639313b84.jpg",
-    "static/media/partnership.png": "/static/media/partnership.e9ad6353492ca1274230.png",
-    "static/media/drop.jpg": "/static/media/drop.430718b5b0a701ee71c8.jpg",
-    "static/media/pickup.jpg": "/static/media/pickup.6951c47488c1330fd96b.jpg",
     "static/media/effortlessTravel.webp": "/static/media/effortlessTravel.3c034a3b000649196b28.webp",
-    "static/media/delivery.png": "/static/media/delivery.a1999c1e1b173a743aa4.png",
-    "static/media/flexible.jpg": "/static/media/flexible.d05ed6bce986cb1d9534.jpg",
     "static/media/plane2.png": "/static/media/plane2.a960c1ff4ff9361c67db.png",
     "static/media/cloud1.jpg": "/static/media/cloud1.d6b2fb2fc70084239656.jpg",
     "static/media/baggageTrack.jpg": "/static/media/baggageTrack.bf3a2c88a8aa847e19a3.jpg",
@@ -46,18 +38,17 @@
     "static/media/baggageClaimed.png": "/static/media/baggageClaimed.0e0ecc5819a216fe2104.png",
     "static/media/Frontier.png": "/static/media/Frontier.f748fdeb90b9485d977c.png",
     "static/media/logo1.png": "/static/media/logo1.fb65020840953713f7ab.png",
-    "static/media/KLM.png": "/static/media/KLM.b43e20db713901888f6d.png",
     "static/media/lost.png": "/static/media/lost.4a600590ab5354942f6c.png",
     "static/media/transfer.png": "/static/media/transfer.b67eb787e46969081028.png",
     "static/media/54.webp": "/static/media/54.6b5a0e5f3ab38e2eb30c.webp",
     "static/media/Sprinkle.svg": "/static/media/Sprinkle.bbe50e39bbf2f7e1625d.svg",
     "index.html": "/index.html",
-    "main.24cc5812.css.map": "/static/css/main.24cc5812.css.map",
-    "main.112e1eb9.js.map": "/static/js/main.112e1eb9.js.map",
+    "main.7bbeb9d6.css.map": "/static/css/main.7bbeb9d6.css.map",
+    "main.988b1a70.js.map": "/static/js/main.988b1a70.js.map",
     "453.54fe756e.chunk.js.map": "/static/js/453.54fe756e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24cc5812.css",
-    "static/js/main.112e1eb9.js"
+    "static/css/main.7bbeb9d6.css",
+    "static/js/main.988b1a70.js"
   ]
 }
