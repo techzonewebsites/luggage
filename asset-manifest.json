@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bbeb9d6.css",
-    "main.js": "/static/js/main.988b1a70.js",
+    "main.css": "/static/css/main.3f4028f4.css",
+    "main.js": "/static/js/main.2808f9a3.js",
     "static/js/453.54fe756e.chunk.js": "/static/js/453.54fe756e.chunk.js",
+    "static/media/lostLuggage.mp4": "/static/media/lostLuggage.32ed839f78caabce758d.mp4",
+    "static/media/baggageTransfer.mp4": "/static/media/baggageTransfer.3779a980aa6608f47a1d.mp4",
+    "static/media/luggageStorage.mp4": "/static/media/luggageStorage.0bbd24d92abd14db73a8.mp4",
     "static/media/tsa-carry-on-1501083435.jpg": "/static/media/tsa-carry-on-1501083435.c11d086b2103cef45e68.jpg",
     "static/media/asd.webp": "/static/media/asd.9375370b262712d974c0.webp",
     "static/media/a.jpg": "/static/media/a.a870ecb45e144e215a47.jpg",
     "static/media/luggageManagement.jpg": "/static/media/luggageManagement.c2bbd59fcaf2b0173165.jpg",
     "static/media/jpg": "/static/media/b090d68f9c9fb5a44c74f99c73debfc1.22e419c0a71a9f5b9995.jpg",
-    "static/media/luggageStorage.png": "/static/media/luggageStorage.97a1e978e2988d7cd8cb.png",
     "static/media/sdce.webp": "/static/media/sdce.a89955455fd9a14618e9.webp",
     "static/media/sd.jpg": "/static/media/sd.dc004af632c6cbe9e4fd.jpg",
     "static/media/1.jpg": "/static/media/1.3282084822e439869c55.jpg",
-    "static/media/lostLuggage.jpg": "/static/media/lostLuggage.6fb864fcd786657a1380.jpg",
     "static/media/2.jpg": "/static/media/2.4089b9dccaff9b33d9ca.jpg",
     "static/media/stressFree.jpg": "/static/media/stressFree.490466250cd1449bddec.jpg",
-    "static/media/baggageTransfer.jpg": "/static/media/baggageTransfer.4179e292a10b0c4d0d10.jpg",
     "static/media/luggageBag.png": "/static/media/luggageBag.34f4378e085aee2cdefc.png",
     "static/media/sd.jpeg": "/static/media/sd.9e8bf5c9225deb3597c5.jpeg",
     "static/media/coolie.png": "/static/media/coolie.76437b48e3e3b43ff7ce.png",
     "static/media/kug.png": "/static/media/kug.76437b48e3e3b43ff7ce.png",
     "static/media/qatar.png": "/static/media/qatar.728d7dcb90777db21b0b.png",
     "static/media/delta.png": "/static/media/delta.668482dbb95a484c8c35.png",
+    "static/media/porters.jpg": "/static/media/porters.6018c0070c281291c057.jpg",
     "static/media/america.png": "/static/media/america.b66a77a395d4478241ca.png",
     "static/media/blank.png": "/static/media/blank.3d16f514e03830772554.png",
     "static/media/lost.jpg": "/static/media/lost.9172cfb4c7d639313b84.jpg",
@@ -43,12 +44,12 @@
     "static/media/54.webp": "/static/media/54.6b5a0e5f3ab38e2eb30c.webp",
     "static/media/Sprinkle.svg": "/static/media/Sprinkle.bbe50e39bbf2f7e1625d.svg",
     "index.html": "/index.html",
-    "main.7bbeb9d6.css.map": "/static/css/main.7bbeb9d6.css.map",
-    "main.988b1a70.js.map": "/static/js/main.988b1a70.js.map",
+    "main.3f4028f4.css.map": "/static/css/main.3f4028f4.css.map",
+    "main.2808f9a3.js.map": "/static/js/main.2808f9a3.js.map",
     "453.54fe756e.chunk.js.map": "/static/js/453.54fe756e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bbeb9d6.css",
-    "static/js/main.988b1a70.js"
+    "static/css/main.3f4028f4.css",
+    "static/js/main.2808f9a3.js"
   ]
 }
