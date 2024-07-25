@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.3016950a.css",
-    "main.js": "/static/js/main.dcdc2b53.js",
+    "main.css": "/static/css/main.3b2e608b.css",
+    "main.js": "/static/js/main.bd07f64a.js",
     "static/js/453.54fe756e.chunk.js": "/static/js/453.54fe756e.chunk.js",
     "static/media/lostLuggage.mp4": "/static/media/lostLuggage.32ed839f78caabce758d.mp4",
     "static/media/baggageTransfer.mp4": "/static/media/baggageTransfer.3779a980aa6608f47a1d.mp4",
     "static/media/luggageStorage.mp4": "/static/media/luggageStorage.0bbd24d92abd14db73a8.mp4",
+    "static/media/luggage.png": "/static/media/luggage.99c307feaf5bfef7dfcb.png",
     "static/media/tsa-carry-on-1501083435.jpg": "/static/media/tsa-carry-on-1501083435.c11d086b2103cef45e68.jpg",
     "static/media/asd.webp": "/static/media/asd.9375370b262712d974c0.webp",
     "static/media/a.jpg": "/static/media/a.a870ecb45e144e215a47.jpg",
@@ -30,7 +31,6 @@
     "static/media/plane2.png": "/static/media/plane2.a960c1ff4ff9361c67db.png",
     "static/media/cloud1.jpg": "/static/media/cloud1.d6b2fb2fc70084239656.jpg",
     "static/media/baggageTrack.jpg": "/static/media/baggageTrack.bf3a2c88a8aa847e19a3.jpg",
-    "static/media/trustPilots2.png": "/static/media/trustPilots2.97ba22073377845e3aa7.png",
     "static/media/Southwest.png": "/static/media/Southwest.48acbf3453ecad11f451.png",
     "static/media/logo.png": "/static/media/logo.0e5d61f81c1f831fe01d.png",
     "static/media/departurebg.png": "/static/media/departurebg.0a26732eab86573b4cf5.png",
@@ -39,17 +39,19 @@
     "static/media/baggageClaimed.png": "/static/media/baggageClaimed.0e0ecc5819a216fe2104.png",
     "static/media/Frontier.png": "/static/media/Frontier.f748fdeb90b9485d977c.png",
     "static/media/logo1.png": "/static/media/logo1.fb65020840953713f7ab.png",
+    "static/media/pricing.png": "/static/media/pricing.8a5aba8ad8bca02d19d2.png",
     "static/media/lost.png": "/static/media/lost.4a600590ab5354942f6c.png",
     "static/media/transfer.png": "/static/media/transfer.b67eb787e46969081028.png",
     "static/media/54.webp": "/static/media/54.6b5a0e5f3ab38e2eb30c.webp",
+    "static/media/oversized.png": "/static/media/oversized.42eede3e61c277ee4f7f.png",
     "static/media/Sprinkle.svg": "/static/media/Sprinkle.bbe50e39bbf2f7e1625d.svg",
     "index.html": "/index.html",
-    "main.3016950a.css.map": "/static/css/main.3016950a.css.map",
-    "main.dcdc2b53.js.map": "/static/js/main.dcdc2b53.js.map",
+    "main.3b2e608b.css.map": "/static/css/main.3b2e608b.css.map",
+    "main.bd07f64a.js.map": "/static/js/main.bd07f64a.js.map",
     "453.54fe756e.chunk.js.map": "/static/js/453.54fe756e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3016950a.css",
-    "static/js/main.dcdc2b53.js"
+    "static/css/main.3b2e608b.css",
+    "static/js/main.bd07f64a.js"
   ]
 }
